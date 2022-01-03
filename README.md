@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @SzaboKt
-- 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to collaborate on anything really.
+About me: I dont really like coding on paper.
 
 <!---
 SzaboKt/SzaboKt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
